@@ -4,7 +4,7 @@
 
 ## Previews
 
-![Screenshot](.previews/mutt.png)
+![Screenshot](.previews/wmutt.png)
 ![Screenshot](.previews/wmutt.from.facebook.png)
 ## Authors: 
 
