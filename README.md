@@ -1,6 +1,6 @@
-# WUTT
+# WMWUTT
 
-    This is my personal setup for mutt, it's very easy to configure colors and getting started, keeping this repo as a backup for myself but someone may like the setup.
+This is my personal setup for mutt, it's very easy to configure colors and getting started, keeping this repo as a backup for myself but someone may like the setup.
 
 ## Previews
 
